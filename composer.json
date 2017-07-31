@@ -1,7 +1,6 @@
 {
     "name": "jjxuhuade/api2",
     "description": "N/A",
-    "type": "magento2-module",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
